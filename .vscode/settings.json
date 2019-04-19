@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "new": "cpp",
-        "vector": "cpp",
-        "queue": "cpp",
-        "iostream": "cpp"
-    }
-}

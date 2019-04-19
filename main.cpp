@@ -4,6 +4,8 @@
 #include <vector>
 #include <math.h>
 #include <stdio.h>
+#include <cstdlib>
+#include <string.h>
 using namespace std;
 
 struct triple
